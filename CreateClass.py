@@ -1,1 +1,1 @@
-print(rectangle)
+print("Circumference:", rectangle.circumference(), "cm")
