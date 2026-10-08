@@ -1,1 +1,1 @@
-print("Circumference:", rectangle.circumference(), "cm")
+print("Area:", rectangle.area(), "cm2")
