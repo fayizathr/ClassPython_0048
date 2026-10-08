@@ -1,1 +1,1 @@
-rectangle = Rectangle(3, 2)
+print(rectangle)
