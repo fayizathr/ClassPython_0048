@@ -1,1 +1,2 @@
-Menambahkan fungsi circumference
+def area(self):
+    return self.length * self.width
